@@ -1,5 +1,9 @@
 ### Hi there 👋
 
-Marketing has provided me with the basics to understand what should be on a website and how to optimize it, studying web development has allowed me to create it from scratch, to observe its processes, and to be fascinated by them, but also to open my mind even more, towards a world made not only of code but also of incredible discoveries and enthusiasm 😍
-
-Thanks to Boolean, the most famous tech academy in Italy, I've been able to learn the logics and tools necessary for web development: HTML5, CSS, JavaScript, Vue.js, Vite, Node.js, and I'm enthusiastic about learning new ones, especially Angular and React. I am eager to put into practice what I have learned and have the opportunity to learn even more 💪
+Hi there! I'm a passionate web developer 
+fueled by curiosity and a drive for continuous learning. 
+With a solid foundation in marketing and web development skills acquired from Boolean, Italy's renowned tech academy, 
+I thrive on bringing ideas to life through code. From crafting websites with HTML5, CSS, and JavaScript to 
+exploring advanced frameworks like Vue.js and Node.js, I'm constantly seeking new challenges and opportunities to grow. 
+Currently, I'm excited to delve deeper into Angular and React to expand my expertise further. Let's connect, collaborate, 
+and create together in this dynamic world of technology and innovation! 🚀
