@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-<h2> Hi, I'm Debora Chiarelli  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJ6cnZrMWVhZmZsZnVrYzJsOTg0MnhnaGhtYWRzbGg1MHcxZjcxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RkWCKSpNUbb7nZkGzD/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<h2> I'm Debora Chiarelli  <img src="https://media.giphy.com/media/d7bf31t07feJBZ4XKd/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJ6cnZrMWVhZmZsZnVrYzJsOTg0MnhnaGhtYWRzbGg1MHcxZjcxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RkWCKSpNUbb7nZkGzD/giphy.gif" width="230">
 <p><em> Web Developer</em></p>
 
 [![Linkedin: debora-chiarelli](https://img.shields.io/badge/-debora-chiarelli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/debora-chiarelli/)](https://www.linkedin.com/in/debora-chiarelli/)
@@ -17,7 +17,7 @@ const debora = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>
+<img src="https://media.giphy.com/media/jaWSNspKe5xeCZn0Qg/giphy.gif" width="60"> <em><b>
 I'm a passionate web developer fueled by curiosity and a drive for continuous learning 💻
 With a solid foundation in marketing and web development skills acquired from Boolean, Italy's renowned tech academy, I thrive on bringing ideas to life through code 🤩
 From crafting websites with HTML5, CSS, and JavaScript to exploring advanced frameworks like Vue.js and Node.js, I'm constantly seeking new challenges and opportunities to grow 💪
