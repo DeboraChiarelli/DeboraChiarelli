@@ -11,8 +11,8 @@
 
 ```javascript
 const debora = {
-  code: [Javascript, HTML, CSS, Bootstrap, Vue.js, Sass ],
-  tools: [ Vite, Node.js ],
+  code: [Javascript, HTML, CSS, Bootstrap, Vue.js, Vite, Node.js, Sass ],
+  tools: [ GitHub ],
  challenge: "Learning Angular and React"
 }
 ```
