@@ -5,7 +5,7 @@
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJ6cnZrMWVhZmZsZnVrYzJsOTg0MnhnaGhtYWRzbGg1MHcxZjcxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RkWCKSpNUbb7nZkGzD/giphy.gif" width="230">
 <p><em> Web Developer</em></p>
 
-[![Linkedin: debora-chiarelli](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/debora-chiarelli/)](https://www.linkedin.com/in/debora-chiarelli/)
+[![Linkedin: debora-chiarelli](https://img.shields.io/badge/-deborachiarelli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/debora-chiarelli/)](https://www.linkedin.com/in/debora-chiarelli/)
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTl2aXcwdDV4cTZ6a3RnNDlyYzN6YmJ2eTE4Y2x6bHJ3enp4azU1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5ZYeQvPfTC1cxz0Nk/giphy.gif" width="50"> A little more about me...  
 
