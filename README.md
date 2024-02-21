@@ -17,7 +17,7 @@ const debora = {
 }
 ```
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTl2aXcwdDV4cTZ6a3RnNDlyYzN6YmJ2eTE4Y2x6bHJ3enp4azU1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5ZYeQvPfTC1cxz0Nk/giphy.gif" width="60"> I'm a passionate web developer fueled by curiosity and a drive for continuous learning 💻<em><b>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTl2aXcwdDV4cTZ6a3RnNDlyYzN6YmJ2eTE4Y2x6bHJ3enp4azU1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5ZYeQvPfTC1cxz0Nk/giphy.gif" width="60"><em><b> I'm a passionate web developer fueled by curiosity and a drive for continuous learning 💻
 <h4></h4>
 <h4> I thrive on bringing ideas to life through code 🤩</h4>
 <h4>From crafting websites with HTML5, CSS, and JavaScript to exploring advanced frameworks like Vue.js and Node.js, </h4>
