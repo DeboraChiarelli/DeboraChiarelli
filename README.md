@@ -7,7 +7,7 @@
 
 [![Linkedin: debora-chiarelli](https://img.shields.io/badge/-deborachiarelli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/debora-chiarelli/)](https://www.linkedin.com/in/debora-chiarelli/)
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTl2aXcwdDV4cTZ6a3RnNDlyYzN6YmJ2eTE4Y2x6bHJ3enp4azU1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5ZYeQvPfTC1cxz0Nk/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/jaWSNspKe5xeCZn0Qg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const debora = {
@@ -17,7 +17,7 @@ const debora = {
 }
 ```
 
-<img src="https://media.giphy.com/media/jaWSNspKe5xeCZn0Qg/giphy.gif" width="60"> <em><b>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTl2aXcwdDV4cTZ6a3RnNDlyYzN6YmJ2eTE4Y2x6bHJ3enp4azU1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5ZYeQvPfTC1cxz0Nk/giphy.gif" width="60"> <em><b>
 I'm a passionate web developer fueled by curiosity and a drive for continuous learning 💻
 With a solid foundation in marketing and web development skills acquired from Boolean, Italy's renowned tech academy, I thrive on bringing ideas to life through code 🤩
 From crafting websites with HTML5, CSS, and JavaScript to exploring advanced frameworks like Vue.js and Node.js, I'm constantly seeking new challenges and opportunities to grow 💪
