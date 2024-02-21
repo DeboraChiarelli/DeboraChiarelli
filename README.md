@@ -19,10 +19,9 @@ const debora = {
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTl2aXcwdDV4cTZ6a3RnNDlyYzN6YmJ2eTE4Y2x6bHJ3enp4azU1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5ZYeQvPfTC1cxz0Nk/giphy.gif" width="60"> <em><b>
 <h4>I'm a passionate web developer fueled by curiosity and a drive for continuous learning 💻</h4>
-<h4>With a solid foundation in marketing and web development skills acquired from Boolean,</h4> 
-<h4>Italy's renowned tech academy, I thrive on bringing ideas to life through code 🤩</h4>
-<h4>From crafting websites with HTML5, CSS, and JavaScript to exploring advanced frameworks</h4>
-<h4>like Vue.js and Node.js, I'm constantly seeking new challenges and opportunities to grow 💪</h4>
+<h4> I thrive on bringing ideas to life through code 🤩</h4>
+<h4>From crafting websites with HTML5, CSS, and JavaScript to exploring advanced frameworks like Vue.js and Node.js, </h4>
+<h4>I'm constantly seeking new challenges and opportunities to grow 💪</h4>
 <h4>Currently, I'm excited to delve deeper into Angular and React to expand my expertise further ✨</h4>
 <h4>Let's connect, collaborate, and create together in this dynamic world of technology and innovation 🚀</h4></b></em>
 
